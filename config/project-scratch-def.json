@@ -1,0 +1,13 @@
+{
+  "orgName": "workshops",
+  "adminEmail": "eltoroit@mailinator.com",
+  "template": "0TT5c000004PvsX",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
